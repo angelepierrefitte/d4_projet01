@@ -1,0 +1,32 @@
+h1 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 45px;
+  text-align: left;
+  color: black;
+}
+
+
+p{
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  text-align: left;
+  color: black;
+}
+
+body {
+color:blue;
+background-color:white;
+background-image:url(image/fond2.gif);
+}
+
+.menu{
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  text-align: left;
+  color: pink;
+}
+
+.footernavigation a {
+  font-size: 250%;
+  color: pink;
+}
